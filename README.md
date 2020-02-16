@@ -28,9 +28,12 @@ Goodwill Calculator is a program which is used to find goodwill, there are basic
 ![](screenshots/gwill-image-5.PNG)
 
 ## Contact Me
-```
+
 Mail: dx4iot@protonmail.com
+
 Instagram: https://www.instagram.com/dx4iot.py/
+
 LinkedIn: https://www.linkedin.com/in/dx4iot
+
 Facebook: https://www.facebook.com/dx4iot/
-```
+
