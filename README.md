@@ -1,4 +1,5 @@
 # Goodwill-Calculator
+
 Goodwill Calculator is a program which is used to find goodwill, there are basically five types of method under this goodwill calculator which are: 
 
 #### • Average Profit Method
@@ -26,5 +27,8 @@ Goodwill Calculator is a program which is used to find goodwill, there are basic
 
 ![](screenshots/gwill-image-5.PNG)
 
-
-
+## Contact Me
+```
+Mail: dx4iot@protonmail.com
+Instagram: https://www.instagram.com/dx4iot.py/
+```
