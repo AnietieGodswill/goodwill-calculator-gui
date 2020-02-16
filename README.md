@@ -10,4 +10,13 @@ Goodwill Calculator is a program which is used to find goodwill, there are basic
 ## Screenshots
 ![](screenshots/gwill-image-1.PNG)
 
+![](screenshots/gwill-image-2.PNG)
+
+![](screenshots/gwill-image-3.PNG)
+
+![](screenshots/gwill-image-4.PNG)
+
+![](screenshots/gwill-image-5.PNG)
+
+
 
