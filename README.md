@@ -6,3 +6,8 @@ Goodwill Calculator is a program which is used to find goodwill, there are basic
 #### • Capitalisation Of Super Profit
 #### • Capitalisation Method
 #### • Weight Average Profit
+
+## Screenshots
+![](screenshots/gwill-image-1.PNG)
+
+
