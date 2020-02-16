@@ -7,6 +7,14 @@ Goodwill Calculator is a program which is used to find goodwill, there are basic
 #### • Capitalisation Method
 #### • Weight Average Profit
 
+## Downloads
+
+• Open the exe folder and download the rar file 
+
+• Extract it and run directly
+
+• You can also download it from SOURCEFORGE (https://sourceforge.net/projects/goodwill-calculator/)
+
 ## Screenshots
 ![](screenshots/gwill-image-1.PNG)
 
